@@ -76,7 +76,7 @@ Choose "Python" for the runtime, and make sure to select the same Region as the 
 ![](./images/2024-05-20_11-29_1.png)
 Make sure to enable "Basic Authentication", we will use this to deploy our function from GitHub Actions.
 
-#### Clone example GitHub
+#### Clone example code
 
 Clone the following example GitHub repo for Azure Function
 https://github.com/ianchen06/myiot-ingestor
