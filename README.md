@@ -1,6 +1,4 @@
-# Azure IoT
-
-## Overview
+# IoT Hub-to-Streamlit Dashboard
 
 This IoT reference app will have the following features
 
